@@ -4,12 +4,12 @@
 
 Este sistema tem como base: Rails 5.0.1 e Ruby 2.3.1.
 
-O SIAI (Sistema de Apoio interno) é um software desenvolvido com o objetivo de auxiliar nos diversos setores do IFMS-NA.
+O SIAI (Sistema de Apoio interno) é um software desenvolvido com o objetivo de auxiliar nos diversos setores do IFMS-NA (Institulo Federal de Mato Grosso do Sul - Campus Nova Andradina).
 
 ## Módulos
 
- - Cadastro de usuários
- - Cadastro de senhas
+ - Gerenciamento de usuários
+ - Gerenciamento de senhas
 
 ## Como usar
 
