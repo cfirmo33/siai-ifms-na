@@ -1,0 +1,12 @@
+<div class="columns">
+  <% @sectors.each do |s|%>
+  <div class="column">
+    <%= link_to sector_actions_path(s) do %>
+      <section>
+        <i class="<%= s.icon %>"></i>
+        <h1><%= s.initial %></h1>
+      </section>
+    <% end %>
+  </div>
+  <% end %>
+</div>
